@@ -1,3 +1,6 @@
+#next builds
+out
+
 # Logs
 logs
 *.log
