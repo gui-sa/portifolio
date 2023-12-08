@@ -5,10 +5,10 @@ import styles from './page.module.css'
 import Navigator from '@/components/sections/Navigator/Navigator';
 import { useRouter } from 'next/router';
 
-export default function Home() {
+export default function Artigos() {
   return (
     <main className={styles.main}>
-        <Navigator navList={0}/>
+        <Navigator navList={2}/>
     </main>
   );
 }
