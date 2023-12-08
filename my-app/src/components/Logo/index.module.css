@@ -1,0 +1,17 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.icon{
+    background-image: url(../../../public/logo_img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 64px;
+    height: 64px;
+}
